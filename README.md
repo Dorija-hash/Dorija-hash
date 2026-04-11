@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
 <a href="https://x.com/nokollo0008182">
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/></a>
-<a href="www.linkedin.com/in/hưng-nguyễn-đặng-chí">
+<a href="www.linkedin.com/in/henry0987">
   <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
 
 <h2>Skills</h2>

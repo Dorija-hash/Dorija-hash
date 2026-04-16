@@ -33,12 +33,3 @@
   <a href="https://vuejs.org/" target="_blank"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
 </p>
-
-<h2>Stats</h2>
-<div id="stats">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian&locale=de&bg_color=ffffff00&title_color=61dafb&text_color=ebcfb2" alt="GitHub stats card" /></a>
-  
-<a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=donut&theme=prussian&locale=de&bg_color=ffffff00&title_color=61dafb&text_color=ebcfb2" alt="Top languages chart" /></a>
-    </div>

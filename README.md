@@ -1,14 +1,12 @@
 <h2>About Me</h2>
-<p>Hi, I'm Nguyen Dang Chi Hung (also known as Henry), I've always have a love for programming ever since i was in middle school. But due to the heavy workload on school at that time, I wasn't really able to fully focus on improving my programming skills. But hopefully that will change since right now, I can fully focus on my skills. I also have a burning passion for cyber security field(especially web-pentest).</p>
+<p>Hi, I'm Hank, I've always have a love for programming ever since i was in middle school. But due to the heavy workload on school at that time, I wasn't really able to fully focus on improving my programming skills. But hopefully that will change since right now, since I can fully focus on honing my skills. I also have a burning passion for cyber security field(.</p>
 <ul>
-<li>I'm currently reside in HCMC, Vietnam.</li>
-<li>An undergraduate student.</li>
 <li>As of right now, I'm learning backend, solving Leetcodes, learn all the frameworks and how to do groupwork!</li>
 <li>I'm able to converse up to three languages with varying fluency: Vi(Native), En(C2), De(B1).</li>
 </ul>
 
 <h2>Contacts</h2>
-<a href="https://www.facebook.com/henry.nguyen.39468">
+<a href="https://www.facebook.com/hank.2929">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
 <a href="https://x.com/nokollo0008182">
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/></a>
